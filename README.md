@@ -20,5 +20,5 @@ Tools
 Outcome
 A clear, interactive dashboard to monitor sales, customer engagement, and payment insights.
 
----
-*Add your Looker Studio dashboard link here if published online.*
+Dashboard Link
+https://lookerstudio.google.com/u/0/reporting/e7fe9130-b6ef-4447-9633-961a6fc93c2c/page/dlJK
